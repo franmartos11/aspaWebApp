@@ -9,8 +9,8 @@ function Client() {
                 <h3>Nuestros Clientes</h3>
             </div>
             <div class="empresas">
-                <div><img src="public\img\logos-png-web-1.png" alt=""></img></div>
-                <div><img src="public\img\p_g_consultores_logo_ilust8-01Blanco__1_-removebg-preview.png" alt=""></img></div>
+                <div><img src="\img\logos-png-web-1.png" alt=""></img></div>
+                <div><img src="\img\p_g_consultores_logo_ilust8-01Blanco__1_-removebg-preview.png" alt=""></img></div>
             </div>
         </div>  
     )

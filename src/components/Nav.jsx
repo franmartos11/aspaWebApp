@@ -9,7 +9,7 @@ function Nav() {
             <section class="top-nav">
 
             <div class="logo">
-            <Link to="/"><img src="public/img/aspaLogo.png" alt="logo"></img></Link>
+            <Link to="/"><img src="/img/aspaLogo.png" alt="logo"></img></Link>
             </div>
 
             <input id="menu-toggle" type="checkbox" />
