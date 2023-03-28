@@ -3,8 +3,9 @@
 
 
 .d3{
-  width: 30rem;
+  width: 23rem;
   height: 40rem;
+
 }
 
 
@@ -855,7 +856,6 @@ form input{
 .contact{
   text-decoration: none;
 }
-
 
 /* Marca de agua*/
 #ultimo + div{
