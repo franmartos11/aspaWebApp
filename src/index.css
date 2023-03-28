@@ -3,9 +3,8 @@
 
 
 .d3{
-  width: 23rem;
+  width: 33rem;
   height: 40rem;
-
 }
 
 
@@ -116,6 +115,10 @@ html, body {
 
 
 @media (max-width: 714px) {
+  .d3{
+    width: 23rem;
+    height: 40rem;
+  }
   
   .menu-button-container {
     display: flex;
@@ -710,8 +713,10 @@ form input{
     letter-spacing: 1.9px ;
   }
   
-  .botones {
+ .botones {
+    display: flex;
     flex-direction: column;
+    justify-content: center;
     margin-top: 0rem;
     margin-bottom: 1rem;
   }
@@ -853,9 +858,7 @@ form input{
   }
 }
 
-.contact{
-  text-decoration: none;
-}
+
 
 /* Marca de agua*/
 #ultimo + div{
@@ -1034,6 +1037,13 @@ form input{
   height:120px;
 }
 
-
-
-
+.contact {
+  font-family: "JetBrains Mono",monospace;
+  text-decoration: none;
+  color: #fff;
+}
+.contact2 {
+  font-family: "JetBrains Mono",monospace;
+  text-decoration: none;
+  color: #36395a;
+}

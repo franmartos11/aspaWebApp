@@ -13,8 +13,8 @@ function Main() {
                         <p>NOS ESPECIALIZAMOS EN SISTEMAS QUE FACILITEN Y ACELEREN DISTINTOS PROCESOS</p>
                     </div>
                     <div class="botones">
-                        <Link to="/contactanos" class="contact"><button class="botonAzul">TRABAJEMOS JUNTOS</button></Link>
-                        <Link to="/servicios" class="contact"><button class="botonBlanco">CONOZCA MAS</button></Link>
+                        <button class="botonAzul"><Link to="/contactanos" class="contact" >TRABAJEMOS JUNTOS</Link></button>
+                        <button class="botonBlanco"><Link to="/contactanos" class="contact2" >CONOZCA MAS</Link></button>
                     </div>
                 </div>
             </div>
