@@ -896,6 +896,8 @@ form input{
   font-size: xx-large;
   padding-right: 3rem;
   padding-left: 2rem;
+  display: flex;
+  
 }
 
 .servicesTop h4{
