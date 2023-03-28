@@ -11,7 +11,7 @@ function Services(){
             </div>
             <div class="cards_servicios">
                 <div class="card_servicios">
-                <img src="\img\pexels-torsten-dettlaff-54284 (2).jpg" alt=""></img>
+                <img src="public\img\pexels-torsten-dettlaff-54284 (2).jpg" alt=""></img>
                     <h5>APLICACIONES</h5>
                     <p>Disponemos de aplicaciones desarrolladas para que implementes en tu empresa, adaptándolas a tus necesidades.</p>
                     <button class="botonBlanco" onclick="location.href='/Aspa_Limited/Aspa_Limited/Menu.pdf'">SABER MAS</button>
