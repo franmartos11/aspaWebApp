@@ -14,7 +14,7 @@ function Main() {
                     </div>
                     <div class="botones">
                         <button class="botonAzul"><Link to="/contactanos" class="contact" >TRABAJEMOS JUNTOS</Link></button>
-                        <button class="botonBlanco"><Link to="/contactanos" class="contact2" >CONOZCA MAS</Link></button>
+                        <button class="botonBlanco"><Link to="/servicios" class="contact2" >CONOZCA MAS</Link></button>
                     </div>
                 </div>
             </div>
