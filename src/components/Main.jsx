@@ -7,7 +7,7 @@ function Main() {
         <div>
             <a name = "inicio"></a>
             <div class="principal">
-                <div>
+                <div class="zoomIn">
                     <div class="texto">
                         <h1>SOMOS UNA AGENCIA CREATIVA DIGITAL</h1>
                         <p>NOS ESPECIALIZAMOS EN SISTEMAS QUE FACILITEN Y ACELEREN DISTINTOS PROCESOS</p>
