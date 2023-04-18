@@ -3,8 +3,9 @@ import React from "react";
 
 function Services(){
     function handleClick() {
-        window.location.href = 'https://aspadevelopment.000webhostapp.com/Aspa_Limited/Aspa_Limited/Menu.pdf';
-      }
+        let url = 'https://aspadevelopment.000webhostapp.com/Aspa_Limited/Aspa_Limited/Menu.pdf';
+        window.open(url,'_blank');
+    }
     
   return(
         <div class="servicios">
