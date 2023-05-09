@@ -3,8 +3,8 @@ import React from "react";
 
 function Services(){
     function handleClick() {
-        let url = 'https://aspadevelopment.000webhostapp.com/Aspa_Limited/Aspa_Limited/Menu.pdf';
-        window.open(url,'_blank');
+        let url = "https://drive.google.com/file/d/1rI9B36C977JEiUFRjcc6UE92dZ0tf_iq/view?usp=sharing";
+        window.open(url,"_blank");
     }
     
   return(
