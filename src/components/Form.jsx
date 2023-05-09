@@ -10,7 +10,7 @@ function Form() {
                 <p>Completa este formulario y al instante te enviamos una propuesta a tu medida. ¡NOS CONECTEMOS!</p>
             </div>
             <div>
-                <form action="https://formsubmit.co/menajes.aspasoftwaredevelopment@gmail.com" method="POST">
+                <form action="https://formsubmit.co/aspasoftwaredevelopment@gmail.com" method="POST">
                     <input type="text" name="name" placeholder="Nombre y Apellido: " required></input>
                     <input type="email" name="email" placeholder="Email: " required></input>
                     <input type="number" name="telefono" placeholder="Nro de Telefono: " required></input>
