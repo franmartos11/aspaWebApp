@@ -5,7 +5,7 @@ import { useState } from "react";
 function ServiceLow(){
     
     const [displayActual,setDisplayActual] = useState("backphoneWrapper");
-    const [proyecto,setProyectoActual] = useState("https://www.appsheet.com/start/3abec06d-4e7c-4afa-8286-3c2fae4f2337");
+    const [proyecto,setProyectoActual] = useState("https://www.appsheet.com/start/3965b1f3-539b-44d3-967e-aac16757009d");
     const [displayWidth,setWidthActual] = useState(259); 
     const [displayHeigth,setHeigthActual] = useState(467); 
     const [animation,setAnimation]= useState('')
@@ -31,13 +31,13 @@ function ServiceLow(){
         setAnimation("slideInRight")
     }
 
-    const proyectoDisplay3= ()=>{
+    const proyectoDisplayLeads= ()=>{
         setProyectoActual("https://www.appsheet.com/start/3965b1f3-539b-44d3-967e-aac16757009d")
     }
-    const proyectoDisplay2= ()=>{
-        setProyectoActual("https://www.appsheet.com/start/3abec06d-4e7c-4afa-8286-3c2fae4f2337")
+    const proyectoDisplayAuditory= ()=>{
+        setProyectoActual("https://www.appsheet.com/start/c227a95b-9a21-479a-ad0e-f6e7dcfc1d95")
     }
-    const proyectoDisplay1= ()=>{
+    const proyectoDisplayInventory= ()=>{
         setProyectoActual("https://www.appsheet.com/start/3abec06d-4e7c-4afa-8286-3c2fae4f2337")
     }
     
@@ -47,9 +47,9 @@ function ServiceLow(){
                 <div class="containerProductTry">
                     <h3>Selecciona una Aplicacion</h3>
                     <div class="containerButtonsService">
-                        <button class='botonAzul' onClick={proyectoDisplay1}>Stock</button>
-                        <button class='botonAzul' onClick={proyectoDisplay2}>Finance</button>
-                        <button class='botonAzul' onClick={proyectoDisplay3}>Personal</button>
+                        <button class='botonAzul' onClick={proyectoDisplayLeads}>Leads</button>
+                        <button class='botonAzul' onClick={proyectoDisplayAuditory}>Auditory</button>
+                        <button class='botonAzul' onClick={proyectoDisplayInventory}>Inventory</button>
                     </div>
                 </div>
                 <div class="containerProductTry">
