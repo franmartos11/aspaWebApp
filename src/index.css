@@ -1499,13 +1499,14 @@ form input{
   }
 }
 
-@media(max-width:379px){
+@media(max-width:375px){
   .backMackBook .backPhone iframe{
-    width: 12.8rem;
-    height: 8.2rem;
+    width: 13.45rem;
+    height: 8.29rem;
     margin-top: 1.4rem;
   }
 }
+
 @media(max-width:363px){
   .backMackBook .backPhone iframe{
     width: 12.1rem;
