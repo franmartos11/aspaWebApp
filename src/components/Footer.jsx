@@ -13,7 +13,7 @@ function Footer() {
                         <li><a href="https://wa.me/+5493513180560" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i></a></li>
                         <li><a href="mailto:aspasoftwaredevelopment@gmail.com" target="_blank"><i class="fab fa-google" aria-hidden="true"></i></a></li>
                         <li><a href="https://www.linkedin.com/company/aspa-sofware-development" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
-                        <li><a href="https://www.instagram.com/aspa_software/" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.instagram.com/aspa.software" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
