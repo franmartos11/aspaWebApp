@@ -13,7 +13,7 @@ function AboutUs() {
                 <div class="persona">
                     <img src="\img\1650166774232.jpg" alt="Imagen_PM"></img>
                     <h5>Haik Martin Kilic Aslan</h5>
-                    <p>Project Manajer</p>
+                    <p>Project Manager</p>
                     <p>Experiencia: Responsable de desarrollo de proyectos</p>
                     <p>(Autocity)</p>
                 </div>
