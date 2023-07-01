@@ -4,10 +4,10 @@ import { useState } from "react";
 
 function ServiceLow(){
     
-    const [displayActual,setDisplayActual] = useState("backphoneWrapper");
+    const [displayActual,setDisplayActual] = useState("backIpadWrapper");
     const [proyecto,setProyectoActual] = useState("https://www.appsheet.com/start/3965b1f3-539b-44d3-967e-aac16757009d");
-    const [displayWidth,setWidthActual] = useState(259); 
-    const [displayHeigth,setHeigthActual] = useState(467); 
+    const [displayWidth,setWidthActual] = useState(688); 
+    const [displayHeigth,setHeigthActual] = useState(375); 
     const [animation,setAnimation]= useState('')
 
     

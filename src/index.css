@@ -366,8 +366,8 @@ button{
 
 /* Aplicaciones */
 .servicios{
-  background-color: #000;
-  color: #FCFCFD;
+  background-color:#fff ;
+  color:#000 ;
 }
 .titulos{
   display: flex;
@@ -1049,10 +1049,11 @@ form input{
 
 .containerServiceLow{
   padding-bottom: 5rem;
+  color: #fff;
+  background-color: #000;
 }
 .containerIphone{
   height: 40rem;
-  
   padding: 2rem;
 
 }

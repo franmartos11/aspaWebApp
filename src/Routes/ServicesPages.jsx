@@ -10,8 +10,9 @@ const ServicesPages = () =>{
     return(
         <div>
             <ServiceTop></ServiceTop>
-            <ServiceMain></ServiceMain>
             <ServiceLow></ServiceLow>
+            <ServiceMain></ServiceMain>
+            
         </div>
     )
 }
