@@ -394,7 +394,7 @@ button{
 
 .card_servicios h5{
   font-size: 2rem;
-  margin-top: 1rem;
+  margin-top: 4rem;
   margin-bottom: 1rem;
   letter-spacing: 3px;
   font-size: 1.7rem;
@@ -402,6 +402,7 @@ button{
 
 }
 .card_servicios p{
+  padding-bottom: 0rem;
   width: 40rem;
   text-align: center;
 }
