@@ -18,12 +18,12 @@ function Nav() {
             </label>
 
             <ul class="menu">
-              <li><a href="/">Inicio</a></li>
-              <li><a href="/nosotros">Nosotros</a></li>
-              <li><a href="/servicios">Servicios</a></li>
-              <li><a href="contactanos">Contactanos</a></li>
+              <li><a> <Link to='/'>Inicio</Link></a></li>
+              <li><a><Link to='nosotros'>Nosotros</Link></a></li>
+              <li><a><Link to='servicios'>Servicios</Link></a></li>
+              <li><a><Link to='contactanos'>Contactanos</Link></a></li>
             </ul>
-
+            
           </section>
         </div>
         
