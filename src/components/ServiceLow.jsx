@@ -66,7 +66,7 @@ function ServiceLow(){
                 <div class='containerIphone'>
                 <div class={displayActual}>
                     <div class='backPhone'>
-                        <iframe src={proyecto} width={displayWidth} height={displayHeigth}></iframe>
+                        <iframe title='Dispositivo que muestra app seleccionada' src={proyecto} width={displayWidth} height={displayHeigth}></iframe>
                     </div>
                 </div>
                 </div>   
