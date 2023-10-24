@@ -30,10 +30,8 @@ function AboutUs() {
                     <h5>Agustin Luque</h5>
                     <p>Encargado Comercial</p>
                     <p>Responsable de la gestion comercial y adquisicion de clientes</p>
-                    
                 </div>
             </div>
-            
         </div>
     )
 }
