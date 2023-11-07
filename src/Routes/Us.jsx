@@ -5,7 +5,6 @@ const Us=()=>{
     return(
         <div class="us">
             <AboutUs></AboutUs>
-            
         </div>
     )
 }
