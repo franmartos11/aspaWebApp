@@ -18,7 +18,7 @@ function AboutUs() {
                 </div>
                 
                 <div class="persona">
-                    <img src="\img\franM.png" alt="Imagen_SM"></img>
+                    <img src="\img\franM.webp" alt="Imagen_SM"></img>
                     <h5>Francisco Martos</h5>
                     <p>Arquitecto de Software</p>
                     <p>Responsable de diseñar la estructura y la organización de sistemas de software</p>
@@ -26,7 +26,7 @@ function AboutUs() {
             </div>
             <div class="personal">
                 <div class="persona">
-                    <img src="\img\agusL.jpeg" alt="Imagen_SM"></img>
+                    <img src="\img\agusL.webp" alt="Imagen_SM"></img>
                     <h5>Agustin Luque</h5>
                     <p>Encargado Comercial</p>
                     <p>Responsable de la gestion comercial y adquisicion de clientes</p>
