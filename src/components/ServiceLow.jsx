@@ -40,6 +40,9 @@ function ServiceLow(){
     const proyectoDisplayInventory= ()=>{
         setProyectoActual("https://www.appsheet.com/start/3abec06d-4e7c-4afa-8286-3c2fae4f2337")
     }
+    const proyectoDisplayListing= ()=>{
+        setProyectoActual("https://www.appsheet.com/start/a0e4bc0c-9c94-46ed-a1da-9f00617c587e#appName=AplicaciónAlistaje-4407950&sort=%5B%5D&table=Menu&view=Menu")
+    }
     
     return(
         <div class="containerServiceLow">
@@ -50,6 +53,7 @@ function ServiceLow(){
                         <button class='botonAzul' onClick={proyectoDisplayLeads}>Leads</button>
                         <button class='botonAzul' onClick={proyectoDisplayAuditory}>Auditory</button>
                         <button class='botonAzul' onClick={proyectoDisplayInventory}>Inventory</button>
+                        <button class='botonAzul' onClick={proyectoDisplayListing}>Listing</button>
                     </div>
                 </div>
                 <div class="containerProductTry">
